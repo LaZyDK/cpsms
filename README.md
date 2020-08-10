@@ -34,25 +34,16 @@ HOW TO USE THE SCRIPT:
  Example: 
  --------------------------------------------------------------------------------------------
  ```
-  ./sms.sh -a a2VsZG5vcm1hbjoxMjM0aGF2ZS1tYWRlLXRoaXMtc2NyaS1wdDR5b3UwMDEzMzc= \\
-  
-           -e UTF-8                                                            \\
-           
-           -f +4511111111                                                      \\
-           
-           -F GSM                                                              \\
-           
-           -m "Testing API"                                                    \\
-           
-           -r "https://www.googleanalytics.com"                                \\
-           
-           -R "PROJECT X"                                                      \\
-           
-           -t 4511111111                                                       \\
-           
-           -T 1474970400                                                       \\
-           
-           -x 0                                                                
+  ./sms.sh -a a2VsZG5vcm1hbjoxMjM0aGF2ZS1tYWRlLXRoaXMtc2NyaS1wdDR5b3UwMDEzMzc= \
+            -e UTF-8                                                           \
+             -f +4511111111                                                    \
+             -F GSM                                                            \
+             -m "Testing API"                                                  \
+             -r "https://www.googleanalytics.com"                              \
+             -R "PROJECT X"                                                    \
+             -t 4511111111                                                     \
+             -T 1474970400                                                     \
+             -x 0                                                                
  ```
   A more simple example: 
  ```

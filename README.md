@@ -2,10 +2,14 @@
 Send spoofed SMS Messages using the danish SMS provider cpsms.dk
 
 This BASH script uses the danish SMS provider cpsms.dk's API: https://api.cpsms.dk/documentation/index.html?php to send spoofed SMS Messages
+
 You need to purchase credits at the site https://www.cpsms.dk/ to be able to use it.
+
 NB: I do not work for that company or in any other way get commision/compensation for advertising for them - I have just used them for performing Redteam tasks.
 
+
 This script was made on a Debian 10 (buster) Linux installation
+
 
 PRE INSTALL: 
 
